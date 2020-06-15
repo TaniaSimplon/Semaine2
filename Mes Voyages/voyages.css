@@ -1,0 +1,115 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+header{
+    background-color: crimson;
+    font-size:2em;
+    font-weight: bolder;
+    padding: 5px 10px;
+    color:white;
+}
+
+h1{
+    font: size 2em;
+    color: crimson;
+    margin-left:20px;
+    font-weight: bolder;
+    border: 2px dashed;
+    text-decoration: underline yellow;
+   
+}
+
+h2{
+    font-size:1.1em;
+    font-weight: normal;
+}
+
+section{
+    padding: 10px 40px;
+}
+
+article{
+    padding: 10px 60px;
+    background-color:#F4F3EF ;
+    margin-bottom:16px;
+
+}
+
+h3{
+    font-weight:bolder;
+    color: rgb(115, 39, 134);
+    padding: 2em
+    font-size: 3em
+    
+}
+
+a{
+    text-decoration: none;
+    color:teal;
+    font-size: 1.1em;
+    font-weight:bold;
+}
+
+.tahititext{
+
+    color: turquoise;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 400px 12px 400px;
+}
+
+h4{
+    
+    color:turquoise;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 600px 12px 600px
+   
+}
+
+h5{
+    color:rosybrown;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 600px 12px 600px
+
+}
+.petratext{
+    color:rosybrown;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 400px 12px 400px;
+
+}
+
+.lahavanetext{
+    color: blue;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 400px 12px 400px;
+
+}
+h6{
+    color: blue;
+    font-size: 2em;
+    font-weight:bold;
+    padding: 12px 600px 12px 600px
+}
+
+p{
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+    font-weight:bold;
+}
+
+div{
+
+    text-decoration: none;
+    color: crimson;
+    font-size: 1.1em;
+    font-weight:bold;
+
+}

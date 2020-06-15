@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  text-decoration: underline;
+  
+   
+}
+
+.small-block {
+  font-style: italic;
+  width: 500px;
+  text-indent: 40px;
+}
+
+.encadre {
+  border: 2px solid blue;
+}
+
+.isole {
+  padding: 200px;
+}
+
+.encart {
+  background-color: green;
+  color: white;
+  padding: 50px;
+  font-size: 2em;
+  font-weight: bold;
+
+}

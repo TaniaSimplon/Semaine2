@@ -1,0 +1,67 @@
+header{
+    text-decoration: none;
+    position: relative;
+    width: 100%; 
+    padding: 0,5em;
+    font-family: monospace;
+
+}
+
+img{
+    width: 50px;
+}
+.l{
+    font-size: 1em;
+}
+
+.pine{
+    width: 200px;
+}
+
+.mangosteen{
+    width: 300px;
+}
+
+.peach{
+    width: 200px;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+section{
+    padding: 50px 800px 50px 800px;
+    font-size: 1em;
+}
+
+footer{
+    font-size: 1em;
+    color: grey;
+    text-align: center;
+    }   
+
+ul{
+display: inline-block;
+}
+li{
+    display: inline-block;
+    padding: 60px 60px 60px 60px;
+}
+
+#bloc{
+    position: relative;
+    margin: 100px;   
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    font-family: monospace;
+
+}
+
+h1{font-style: italic;
+    font-family: monospace;
+}
+
+p{    font-family: monospace;
+}

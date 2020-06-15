@@ -1,0 +1,15 @@
+h1{
+    color: salmon;
+    background-color: slateblue;
+    font-size: 32px;
+    padding: 12px 12px 12px 12px;
+    border: red dotted 12px;
+}
+
+p{
+    font-size: 32px; color: indianred;
+}
+
+img{
+    width: 20%;
+}
